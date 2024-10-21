@@ -1,0 +1,11 @@
+0 Marasmus
+1 Kwashiorkor
+2 Rickets
+3 Iron Deficiency (Anemia)
+4 Vitamin A Deficiency
+5 Zinc Deficiency
+6 Iodine Deficiency (Goiter)
+7 Cheilosis
+8 Clubbing
+9 Scruvy
+10 Healthy
